@@ -6,7 +6,7 @@ I am IT professional from India with over 23+ years of industry experience. My t
 
 Below are some of my work on biometrics, PKI and embedded networking:
 
-1. [Passwordless authentication using Biometric Signatures and FIDO](https://biometricsignatures.blogspot.com/)
+1. [Passwordless authentication using Biometric Signatures and FIDO](https://dev.to/pkjanbandhu/passwordless-authentication-using-biometric-signatures-and-fido-2op6)
 2. [Novel biometric digital signatures for Internet‐based applications](https://www.emerald.com/ics/article-abstract/9/5/205/180760/Novel-biometric-digital-signatures-for-Internet?redirectedFrom=fulltext)
 3. [Modified Private Key Generation for Biometric Signatures](https://wseas.us/e-library/conferences/malta2001/papers/256.pdf)
 4. [Dr Dobb's Journal article on Parallel to Serial Port Adapter](https://www.drdobbs.com/embedded-systems/designing-a-parallel-to-serial-port-adap/223100564)
