@@ -9,7 +9,7 @@ Below are some of my work on biometrics, PKI and embedded networking:
 1. [Passwordless authentication using Biometric Signatures and FIDO](https://dev.to/pkjanbandhu/fido-and-passwordless-authentication-using-biometric-signatures-322)
 2. [Novel biometric digital signatures for Internet‐based applications](https://www.emerald.com/ics/article-abstract/9/5/205/180760/Novel-biometric-digital-signatures-for-Internet?redirectedFrom=fulltext)
 3. [Modified Private Key Generation for Biometric Signatures](https://wseas.us/e-library/conferences/malta2001/papers/256.pdf)
-4. [Dr Dobb's Journal article on Parallel to Serial Port Adapter](https://www.drdobbs.com/embedded-systems/designing-a-parallel-to-serial-port-adap/223100564)
+4. [Dr Dobb's Journal article on Parallel to Serial Port Adapter](https://www.researchgate.net/publication/230799951_Designing_a_Parallel-to-Serial_Port_Adapter)
 
 
 <!--
