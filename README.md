@@ -19,8 +19,7 @@ Below are some of my work on biometrics, PKI and embedded networking:
 
 **More about ME**
 
-- 🔭 I’m currently working on AWS Security.
-- 🌱 I’m currently learning LLMs and Gen AI.
+- 🔭 I’m currently working on AI Security.
 - 👯 I’m looking to collaborate on GitHub.
 - 💬 Ask me about ...
 - 📫 How to reach me: Send me message on LinkedIn.
